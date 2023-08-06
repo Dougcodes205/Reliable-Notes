@@ -1,0 +1,1 @@
+console.log('install.bundle.js is loaded.');
