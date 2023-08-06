@@ -1,0 +1,1 @@
+console.log('main.bundle.js is loaded.');
